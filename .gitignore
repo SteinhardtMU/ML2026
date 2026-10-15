@@ -20,3 +20,6 @@ Week7/gqwa15no19.tar.gz
 Week7/supervised_test.csv
 Week7/supervised_train.csv
 /Week8/.ipynb_checkpoints
+/Week8/lightning_logs
+/Week8/scholar_cache
+Week8/Citation_Network_GNN (2).ipynb
